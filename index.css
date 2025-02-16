@@ -1,5 +1,5 @@
 body {
-    background-color: #ffc3da;
+    background-image: ;
 }
 
 .envelope-wrapper {
@@ -9,7 +9,7 @@ body {
 #envelope {
     position: relative;
     height: 180px;
-    width: 340px;
+    width: 360px;
     border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px;
     margin-left: auto;
@@ -50,7 +50,7 @@ body {
 .letter {
     position: relative;
     background-color: white;
-    width: 99%;
+    width: 98%;
     height: 95%;
     top: 5%;
     border-radius: 10px;
@@ -85,11 +85,11 @@ body {
     top: 30%;
 }
 .line3 {
-    top: 50%;
+    top: 60%;
     text-align: center;
 }
 .line4 {
-    top: 65%;
+    top: 69%;
     text-align: center;
 }
 
@@ -106,7 +106,7 @@ body {
 }
 
 .open .letter {
-    transform: translatey(-80px);
+    transform: translatey(-115px);
     transition: transform 0.4s 0.6s ease, z-index 0.6s;
     z-index: 2;
 }
