@@ -1,5 +1,5 @@
 body {
-    background-image: ;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(Starwars.jpg);
 }
 
 .envelope-wrapper {
@@ -85,7 +85,7 @@ body {
     top: 30%;
 }
 .line3 {
-    top: 60%;
+    top: 55%;
     text-align: center;
 }
 .line4 {
@@ -231,7 +231,7 @@ body {
 .valentine {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color:rgb(20, 20, 20);
-    font-size: 70px;
+    color:white;
+    font-size: 50px;
     margin: 150px;
 }
